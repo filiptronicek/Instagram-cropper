@@ -5,7 +5,7 @@
 
 Original image:
 
-![](https://i.boring.host/1LPDmm7N.png)
+![](http://railsgirls.com/images/brno/czechitas.png)
 
 Output:
 
